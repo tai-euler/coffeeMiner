@@ -1,5 +1,7 @@
 # CoffeeMiner
 
+https://n0where.net/wireless-mitm-cryptocurrency-mining-pool-coffeeminer
+
 Collaborative (mitm) cryptocurrency mining pool in wifi networks
 
 **Warning: this project is for academic/research purposes only.**
